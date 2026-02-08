@@ -7,7 +7,6 @@
 A modern, full-stack AI chatbot application built with Next.js 14, OpenAI GPT, Upstash Vector, Upstash Redis, and more. This project demonstrates how to build a context-aware, memory-enabled chatbot using Retrieval-Augmented Generation (RAG) and state-of-the-art cloud technologies.
 
 - **Localhost:** [http://localhost:3000/www.wikipedia.org](http://localhost:3000/www.wikipedia.org)
-- **Live-Demo:** [https://ai-rag-chatbot-arnob.vercel.app/www.wikipedia.org](https://ai-rag-chatbot-arnob.vercel.app/www.wikipedia.org)
 
 ---
 
