@@ -265,3 +265,5 @@ To chat with a website, use:
 ## Keywords
 
 AI chatbot, RAG chatbot, Retrieval Augmented Generation, OpenAI, Upstash Vector, semantic search, Next.js chatbot, website ingestion, PDF ingestion, context-aware AI, chatbot app, gpt-3.5-turbo, gpt-4-turbo, Upstash Redis, vector database, Arnob T., AI assistant, machine learning, LLM, ML, education
+
+---
